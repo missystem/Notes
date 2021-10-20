@@ -20,7 +20,7 @@
 
 	12+20 ≡ 8 mod 24
 	```
-### **Definition of modular operator**<br>
+### Definition of modular operator<br>
 Let a, r, m ∈ ℤ, and m > 0, then we write a ≡ r mod m if m divides (a-r), i.e. m|(a-r) <br>
 here m = modulus, r = remainder
 	 - Example: 
@@ -29,7 +29,7 @@ here m = modulus, r = remainder
 	 13 ≡ 4 mod 9  
 	 a-r = (13-4) = 9
 	 ```  
-* 1a) Computation of the remainder<br>
+* **1a) Computation of the remainder**<br>
 Given: ```a, m ∈ ℤ```<br>
 write ```a = qm```<br>
 here q = quotient<br>
@@ -50,8 +50,18 @@ here q = quotient<br>
 	  ```
 <br>==> **The remainder is not unique**
 
-* 1b) Equivalence Classes
-	- Example
+* **1b) Equivalence Classes**
+	- Example: ```a = 12, m = 5```<br>
+	```
+	12 ≡ 2 mod 5
+	check: 5|(12-2) = 5|10
+	12 ≡ 7 mod 5
+	check: 5|(12-7) = 5|5
+	12 ≡ -3 mod 5
+	check: 5|(12-(-3)) = 5|15
+	```
+### Definition: The set
+	{..., -8, -3, 2, 7, 12, 17, ...}
 
 
 
