@@ -60,10 +60,8 @@ here q = quotient<br>
 	check: 5|(12-(-3)) = 5|15
 	```
 ### Definition: The set
-```{..., -8, -3, 2, 7, 12, 17, ...}``` forms an "equivalence class" modulo 5. All members of the class behave equivalent modulo 5.
-
-
-* Let's look at all equivalence classes modulo 5
+* ```{..., -8, -3, 2, 7, 12, 17, ...}``` forms an "equivalence class" modulo 5. All members of the class behave equivalent modulo 5.
+* Let's look at all equivalence classes modulo 5<br>
 ```{..., -10, -5, 0, 5, 10, ...}```
 
 
