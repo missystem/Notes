@@ -36,9 +36,9 @@
 
 ## 2. Set-up for symmetric cryptography  
 (simple) problem: Communication over insecure channel  
-channel examples:    
-- internet  
-- airwaves GSM, wifi, ...  
+* channel examples:    
+	- internet  
+	- airwaves GSM, wifi, ...  
 
 ```
 party A                                    party B  
@@ -47,13 +47,21 @@ Alice                  Oscar                 Bob
             y            ↑         y	
   x	---- e --->  insecure channel --- d --->  x  
          ↑                            ↑
-        key                          key
+         k                            k
 ```
 <img src="figures/lecture1/fig1.jpg"
      alt="example1"
      style="" />  
 
 ### In practice: Never use an untested crypto algorithm!  
+### notation
+```
+	x = plaintext  
+	y = ciphertext  
+	e = encryption function  
+	d = decryption function  
+	k = key  
+```
 
 
 
