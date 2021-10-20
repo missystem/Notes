@@ -70,6 +70,7 @@ Remarks:
 A --> l
 B --> d
 C --> w
+E --> q
   ...
 e(ABBA) --> lddl
 ```
@@ -77,9 +78,13 @@ Q: Is the cipher secure?
 A: No.  
 Q: How can we attack the cipher?  
 A: 
-1. Attack: Brute-Force Attack or exhaustive key search  
-	* 26 * 25 * 24 ... 1 = 26! ≈ 2^88
-2.  
+1. Attack: Brute-Force Attack or Exhaustive Key Search  
+	* Exhaustive Key Search: 26 * 25 * 24 ... 1 = 26! ≈ 2^88 = 2^56 * 2^32  		2^32 ≈ 10^9   --> Key space is too large
+2. Attack: Letter Frequency Analysis (Brute-Force Attack)
+	* Letters have very different frequencies in the English language
+	* Moreover: the frequency of plaintext letters is preserved in the ciphertext
+	* For instance, "e" is the most common letter in English: almost 13% of all letters in typical ENglish text are "e".
+	* The next most common one is "r" with about 9%
 
 
 
