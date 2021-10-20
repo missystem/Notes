@@ -78,7 +78,7 @@ A: No.
 Q: How can we attack the cipher?  
 A: 
 1. Attack: Brute-Force Attack or exhaustive key search  
-	* 26 * 25 * 24 ... 1 = 26! $\approx$ $2^88$
+	* $$26 * 25 * 24 ... 1 = 26! ≈ 2^88$$
 2.  
 
 
