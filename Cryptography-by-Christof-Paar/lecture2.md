@@ -25,7 +25,7 @@ Let a, r, m ∈ ℤ, and m > 0, then we write a ≡ r mod m if m divides (a-r), 
 here m = modulus, r = remainder
 	 - Example: 
 	 ```
-	 a = 13, m = 9<br>
+	 a = 13, m = 9
 	 r = ?  
 	 13 ≡ 4 mod 9  
 	 a-r = (13-4) = 9
