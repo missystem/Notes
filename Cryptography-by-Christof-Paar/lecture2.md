@@ -142,6 +142,9 @@ here q = quotient<br>
 
 ---
 
+## 4. Affine Cipher
+* Definition 1.4.4 Affine Cipher
+	<img src="figures/lecture2/defofaffinecipher.png" alt="Definition of Shift Cipher" width="429.6" height="126" />  
 
 
 
