@@ -23,10 +23,13 @@
 * Definition of modular operator<br>
 Let a, r, m ∈ ℤ, and m > 0, then we write a ≡ r mod m if m divides (a-r), i.e. m|(a-r) <br>
 here m = modulus, r = remainder
-	 - Example: a = 13, m = 9<br>
-	  r = ?  
-	  13 ≡ 4 mod 9  
-	  a-r = (13-4) = 9  
+	 - Example: 
+	 ```
+	 a = 13, m = 9<br>
+	 r = ?  
+	 13 ≡ 4 mod 9  
+	 a-r = (13-4) = 9
+	 ```  
 
 
 
