@@ -6,6 +6,8 @@
 - Substitution Cipher  
 - Attacks  
 
+---
+
 ## 1. **Classification**
 2. Modern application of cryptography?
 	- [GNU PG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard) (GNU Privacy Guard)
