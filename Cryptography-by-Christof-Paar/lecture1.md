@@ -43,7 +43,9 @@ Alice                  Oscar                 Bob
             y            ↑         y	
   x	---- e --->  insecure channel --- d --->  x  
 ```
-
+<img src="figures/lecture1/fig1.jpg"
+     alt="example1"
+     style="" />
 
 channel examples:    
 - internet  
