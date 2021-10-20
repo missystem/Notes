@@ -126,7 +126,12 @@ here q = quotient<br>
 	      ↑ wrap around modulo 26
 	```
 * Definition 1.4.3 Shift Cipher<br>
-	<img src="figures/lecture2/defofshiftcipher.png" alt="Definition of Shift Cipher" width="429.6" height="106.8" />  
+	<img src="figures/lecture2/defofshiftcipher.png" alt="Definition of Shift Cipher" width="429.6" height="106.8" />   
+
+* Example 1.11. Let the key be k = 17, and the plaintext is: <br>
+	ATTACK= x1,x2,...,x6 = 0,19,19,0,2,10.  
+	The ciphertext is then computed as  
+	y1,y2,...,y6 = 17,10,10,17,19,1 =rkkrtb  
 
 
 
