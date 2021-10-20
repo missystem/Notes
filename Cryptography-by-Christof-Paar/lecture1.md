@@ -1,6 +1,6 @@
 # Lecture 1 - Introduction to Cryptography
 
-# Topics today  
+## Topics today  
 - classification  
 - Basics/Set-up  
 - Substitution Cipher  
