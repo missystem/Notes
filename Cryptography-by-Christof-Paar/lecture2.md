@@ -86,8 +86,7 @@ here q = quotient<br>
 ---
 
 ## 2. Rings: An Algebraic View on Modular Arithmetic
-
-
+### Definition The "integer ring" ℤ_{m}
 
 
 
