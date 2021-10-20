@@ -77,10 +77,10 @@ infinite members in these sets
 ```
 **Important application**<br>
 - Example:```3^8 mod 7 ≡ ?```
-	1. 1st way:
+	1. 1st way:<br>
 	```3^8 = 6561 ≡ 2 mod 7```
-	2. 2nd way:
-	```3^8 = 3^4 * 3^4 = 81 * 81```
+	2. **2nd way**:<br>
+	```3^8 = 3^4 * 3^4 = 81 * 81 ≡ 4 * 4 = 16 ≡ 2 (mod 7)```
 
 
 
