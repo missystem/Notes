@@ -145,18 +145,24 @@ here q = quotient<br>
 ## 4. Affine Cipher
 * Definition 1.4.4 Affine Cipher<br>
 	<img src="figures/lecture2/defofaffinecipher.png" alt="Definition of Shift Cipher" width="429.6" height="126" />  
-	- encryption rule: 
+	- Encryption rule: 
 		```
 		k = (a,b)
 		y ≡ a ⋅ x + b mod 26
 		```
-	- decryption rule:
+	- Decryption rule:
 		```
 		y - b ≡ a ⋅ x mod 26 
 		a^{-1}(y - b) ≡ x mod 26
 		x ≡ a^{-1}(y - b) mod 26
 		```
-
+	- condition for a:  
+		```
+		#k = ?  
+			#b = 26  
+				gcd(a, 26) = 1  
+		```
+	
 
 
 
