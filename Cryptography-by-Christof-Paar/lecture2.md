@@ -34,20 +34,20 @@ Given: ```a, m ∈ ℤ```<br>
 write ```a = qm```<br>
 here q = quotient<br>
 - Example:```a = 42, m = 9```<br>
-	  ```
-	  42 = 4 * 9 + 6 => r = 6
-	  check: (42-6)=36, 9|36 √
-	  ```
-	  <br>but also<br>
-	  ```
-	  42 = 3 * 9 + 15 => r = 15
-	  check: (42-15)=27, 9|27 √
-	  ```
-	  <br>but also<br>
-	  ```
-	  42 = 5 * 9 + (-3) => r = -3
-	  check: (42-(-3))=45, 9|45 √
-	  ```
+  ```
+  42 = 4 * 9 + 6 => r = 6
+  check: (42-6)=36, 9|36 √
+  ```
+  <br>but also<br>
+  ```
+  42 = 3 * 9 + 15 => r = 15
+  check: (42-15)=27, 9|27 √
+  ```
+  <br>but also<br>
+  ```
+  42 = 5 * 9 + (-3) => r = -3
+  check: (42-(-3))=45, 9|45 √
+  ```
 <br>==> **The remainder is not unique**
 ### 1b) Equivalence Classes
 - Example: ```a = 12, m = 5```<br>
@@ -63,11 +63,11 @@ here q = quotient<br>
 ```{..., -8, -3, 2, 7, 12, 17, ...}``` forms an "equivalence class" modulo 5. All members of the class behave equivalent modulo 5.<br>
 
 Let's look at all equivalence classes modulo 5<br>
-```{..., -10, -5, 0, 5, 10, ...}```<br>
-```{..., -9, -4, 1, 6, 11, ...}```<br>
-```{..., -8, -3, 2, 7, 12, ...}```<br>
-```{..., -7, -2, 3, 8, 13, ...}```<br>
-```{..., -6, -1, 4, 9, 10, ...}```<br>
+```{..., -10, -5, 0, 5, 10, ...}```	A<br>
+```{..., -9, -4, 1, 6, 11, ...}```	B<br>
+```{..., -8, -3, 2, 7, 12, ...}```	C<br>
+```{..., -7, -2, 3, 8, 13, ...}```	D<br>
+```{..., -6, -1, 4, 9, 10, ...}```	E<br>
 infinite members in these sets<br>
 
 
