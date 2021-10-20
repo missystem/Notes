@@ -94,11 +94,13 @@ here q = quotient<br>
 
 * Sect. 4.2 All this point, the following properties of rings are important (book pg. 17)
 	- Example for multiplication inverses```m = 9```
-		1. ```a = 2```
-			```
-			a^{-1} = 2
-			2 ⋅ 2^{-1} ≡ 1 mod 9
-			```
+		1. ex1
+		```
+		a = 2
+		a^{-1} = 2
+		2 ⋅ 2^{-1} ≡ 1 mod 9
+		2^{-1} = 1/2 = 0.5
+		```
 
 
 
