@@ -51,7 +51,7 @@ y = ciphertext
 e = encryption function  
 d = decryption function  
 k = key  
-|k| = K = key space (number of keys)
+$|k|$ = K = key space (number of keys)
 ```
 
 ### Kerckhoffs' Principle [1883]  
@@ -59,6 +59,27 @@ A cryptosystem should be secure even if the attacker (Oscar) knows all the detai
 **Remark**: Kerckhoffs' Principle is counterintuitive!  
 
 ---
+
+## 3. Substitution Cipher  
+Remarks:  
+* historical cipher (insecure ciphers, outdated)
+* operates on letters
+* *Idea*: Replace every plaintext letter by a fixed ciphertext letter.
+* Example: 
+```
+A --> l
+B --> d
+C --> w
+  ...
+e(ABBA) --> lddl
+```
+Q: Is the cipher secure?   
+A: No.  
+Q: How can we attack the cipher?  
+A: 
+1. Attack: Brute-Force Attack or exhaustive key search  
+	* 26 * 25 * 24 ... 1 = 26! $\approx$ $2^88$
+2.  
 
 
 
