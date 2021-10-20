@@ -50,7 +50,7 @@ here q = quotient<br>
 	  ```
 <br>==> **The remainder is not unique**
 ### 1b) Equivalence Classes
-	- Example: ```a = 12, m = 5```<br>
+- Example: ```a = 12, m = 5```<br>
 	```
 	12 ≡ 2 mod 5
 	check: 5|(12-2) = 5|10
