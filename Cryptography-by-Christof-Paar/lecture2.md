@@ -153,6 +153,8 @@ here q = quotient<br>
 	- decryption rule:
 		```
 		y - b ≡ a ⋅ x mod 26 
+		a^{-1}(y - b) ≡ x mod 26
+		x ≡ a^{-1}(y - b) mod 26
 		```
 
 
