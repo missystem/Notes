@@ -37,10 +37,10 @@
 ## 2. Set-up for symmetric cryptography  
 (simple) problem: Communication over insecure channel  
 ```
-party A                        			   party B  
-Alice                  Oscar     	  		 Bob  
-					     y  
-			y			 ↑		   y	
+party A                                    party B  
+Alice                  Oscar                 Bob  
+                         y  
+            y            ↑         y	
   x	---- e --->  insecure channel --- d --->  x  
 ```
 
