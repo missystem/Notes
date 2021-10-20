@@ -88,6 +88,10 @@ A:
 	* For instance, "e" is the most common letter in English: almost 13% of all letters in typical ENglish text are "e".
 	* The next most common one is "r" with about 9%
 
+---
+
+
+
 
 
 
