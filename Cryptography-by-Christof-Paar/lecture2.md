@@ -59,7 +59,7 @@ here q = quotient<br>
 	12 ≡ -3 mod 5
 	check: 5|(12-(-3)) = 5|15
 	```
-### Definition: The set
+#### Definition: The set
 ```{..., -8, -3, 2, 7, 12, 17, ...}``` forms an "equivalence class" modulo 5. All members of the class behave equivalent modulo 5.<br>
 
 - Let's look at all equivalence classes modulo 5<br>
@@ -76,12 +76,16 @@ here q = quotient<br>
 	 8 * 6  - (-7) = 48 + 7 = 55 ≡ 0 mod 5
 	```
 	**Important application**<br>
+
 - Example:```3^8 mod 7 ≡ ?```
 	1. 1st way:<br>
 	```3^8 = 6561 ≡ 2 mod 7```
 	2. **2nd way**:<br>
 	```3^8 = 3^4 * 3^4 = 81 * 81 ≡ 4 * 4 = 16 ≡ 2 (mod 7)```
 
+---
+
+## 2. Rings: An Algebraic View on Modular Arithmetic
 
 
 
