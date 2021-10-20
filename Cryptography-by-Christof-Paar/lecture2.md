@@ -49,11 +49,9 @@ here q = quotient<br>
 	  check: (42-(-3))=45, 9|45 √
 	  ```
 <br>==> **The remainder is not unique**
-	  ```
-	  42 ≡ 6 mod 9
-	  ```
+
 * 1b) Equivalence Classes
-- Example
+	- Example
 
 
 
