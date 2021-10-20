@@ -38,17 +38,17 @@ here q = quotient<br>
 	  42 = 4 * 9 + 6 => r = 6
 	  check: (42-6)=36, 9|36 √
 	  ```
-	  but also
+	  <br>but also<br>
 	  ```
 	  42 = 3 * 9 + 15 => r = 15
 	  check: (42-15)=27, 9|27 √
 	  ```
-	  but also
+	  <br>but also<br>
 	  ```
 	  42 = 5 * 9 + (-3) => r = -3
 	  check: (42-(-3))=45, 9|45 √
 	  ```
-==> **The remainder is not unique**
+<br>==> **The remainder is not unique**
 	  ```
 	  42 ≡ 6 mod 9
 	  ```
