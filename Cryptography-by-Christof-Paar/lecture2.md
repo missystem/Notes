@@ -29,7 +29,7 @@ here m = modulus, r = remainder
 	 13 ≡ 4 mod 9  
 	 a-r = (13-4) = 9
 	 ```  
-* **1a) Computation of the remainder**<br>
+### 1a) Computation of the remainder<br>
 Given: ```a, m ∈ ℤ```<br>
 write ```a = qm```<br>
 here q = quotient<br>
@@ -50,7 +50,7 @@ here q = quotient<br>
 	  ```
 <br>==> **The remainder is not unique**
 
-* **1b) Equivalence Classes**
+### 1b) Equivalence Classes
 	- Example: ```a = 12, m = 5```<br>
 	```
 	12 ≡ 2 mod 5
@@ -63,6 +63,9 @@ here q = quotient<br>
 ### Definition: The set
 ```{..., -8, -3, 2, 7, 12, 17, ...}``` forms an "equivalence class" modulo 5. All members of the class behave equivalent modulo 5.
 
+
+* Let's look at all equivalence classes modulo 5
+```{..., -10, -5, 0, 5, 10, ...}```
 
 
 
