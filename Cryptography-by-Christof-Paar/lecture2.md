@@ -126,7 +126,8 @@ here q = quotient<br>
 	      ↑ wrap around modulo 26
 	```
 * Definition 1.4.3 Shift Cipher<br>
-<img src="figures/lecture2/defofshiftcipher.png" alt="Definition of Shift Cipher" width="429.6" height="106.8" />  
+	<img src="figures/lecture2/defofshiftcipher.png" alt="Definition of Shift Cipher" width="429.6" height="106.8" />  
+
 
 
 
