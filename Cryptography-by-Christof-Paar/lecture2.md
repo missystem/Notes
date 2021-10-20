@@ -70,10 +70,10 @@ Let's look at all equivalence classes modulo 5<br>
 ```{..., -6, -1, 4, 9, 10, ...}```	E<br>
 infinite members in these sets<br>
 ```
-	13 * 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
-     D * B  - D
-     3 * 1  - 3 = 3 - 3 ≡ 0
-     8 * 6  - (-7) = 48 + 7 = 55 ≡ 0
+13 * 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
+ D * B  - D
+ 3 * 1  - 3 = 3 - 3 ≡ 0
+ 8 * 6  - (-7) = 48 + 7 = 55 ≡ 0
 ```
 **Important application**
 
