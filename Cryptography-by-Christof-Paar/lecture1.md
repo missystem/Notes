@@ -40,28 +40,22 @@
 	- internet  
 	- airwaves GSM, wifi, ...  
 
-```
-party A                                    party B  
-Alice                  Oscar                 Bob  
-                         y  
-            y            ↑         y	
-  x	---- e --->  insecure channel --- d --->  x  
-         ↑                            ↑
-         k                            k
-```
+
 <img src="figures/lecture1/fig1.jpg"
      alt="example1"
-     style="" />  
+     size=0.5 />  
 
 ### In practice: Never use an untested crypto algorithm!  
 ### notation
 ```
-	x = plaintext  
-	y = ciphertext  
-	e = encryption function  
-	d = decryption function  
-	k = key  
+x = plaintext  
+y = ciphertext  
+e = encryption function  
+d = decryption function  
+k = key  
+|k| = K = key space (number of keys)
 ```
+
 
 
 
