@@ -152,7 +152,7 @@ here q = quotient<br>
 		```
 	- Decryption rule:
 		```
-		y - b ≡ a ⋅ x mod 26 
+		y - b ≡ a⋅x mod 26 
 		a^{-1}(y - b) ≡ x mod 26
 		x ≡ a^{-1}(y - b) mod 26
 		```
@@ -161,6 +161,9 @@ here q = quotient<br>
 		#k = ?  
 			#b = 26  
 				gcd(a, 26) = 1  
+				1, 3, 5, 7, 11, 17, 19, 23, ...
+				=> #a = 12
+		#k = (#a)⋅(#b) = 12⋅26 = 312
 		```
 	
 
