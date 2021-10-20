@@ -41,9 +41,7 @@
 	- airwaves GSM, wifi, ...  
 
 
-<img src="figures/lecture1/fig1.jpg"
-     alt="example1"
-     size=0.5 />  
+<img src="figures/lecture1/fig1.jpg" alt="example1" width="566.7" height="319.5" />  
 
 ### In practice: Never use an untested crypto algorithm!  
 ### notation
