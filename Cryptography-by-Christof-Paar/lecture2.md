@@ -63,19 +63,19 @@ here q = quotient<br>
 ```{..., -8, -3, 2, 7, 12, 17, ...}``` forms an "equivalence class" modulo 5. All members of the class behave equivalent modulo 5.<br>
 
 - Let's look at all equivalence classes modulo 5<br>
-```{..., -10, -5, 0, 5, 10, ...}```	A<br>
-```{..., -9, -4, 1, 6, 11, ...}```	B<br>
-```{..., -8, -3, 2, 7, 12, ...}```	C<br>
-```{..., -7, -2, 3, 8, 13, ...}```	D<br>
-```{..., -6, -1, 4, 9, 10, ...}```	E<br>
-infinite members in these sets
-```
-13 * 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
- D * B  - D
- 3 * 1  - 3 = 3 - 3 ≡ 0
- 8 * 6  - (-7) = 48 + 7 = 55 ≡ 0
-```
-**Important application**<br>
+	```{..., -10, -5, 0, 5, 10, ...}```	A<br>
+	```{..., -9, -4, 1, 6, 11, ...}```	B<br>
+	```{..., -8, -3, 2, 7, 12, ...}```	C<br>
+	```{..., -7, -2, 3, 8, 13, ...}```	D<br>
+	```{..., -6, -1, 4, 9, 10, ...}```	E<br>
+	infinite members in these sets
+	```
+	13 * 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
+	 D * B  - D
+	 3 * 1  - 3 = 3 - 3 ≡ 0 mod 5
+	 8 * 6  - (-7) = 48 + 7 = 55 ≡ 0 mod 5
+	```
+	**Important application**<br>
 - Example:```3^8 mod 7 ≡ ?```
 	1. 1st way:<br>
 	```3^8 = 6561 ≡ 2 mod 7```
