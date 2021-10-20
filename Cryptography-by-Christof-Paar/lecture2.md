@@ -68,7 +68,7 @@ Let's look at all equivalence classes modulo 5<br>
 ```{..., -8, -3, 2, 7, 12, ...}```	C<br>
 ```{..., -7, -2, 3, 8, 13, ...}```	D<br>
 ```{..., -6, -1, 4, 9, 10, ...}```	E<br>
-infinite members in these sets<br>
+infinite members in these sets
 ```
 13 * 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
  D * B  - D
