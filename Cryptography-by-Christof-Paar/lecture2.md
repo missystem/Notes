@@ -165,7 +165,8 @@ here q = quotient<br>
 				=> #a = 12
 		#k = (#a)⋅(#b) = 12⋅26 = 312
 		```
-	
+* Secure? No.
+* Attacks: frequency analysis
 
 
 
