@@ -90,6 +90,20 @@ A:
 
 ---
 
+## 4. Classification of Attacks  <br>
+There are often many possible attack approaches ("attack vectors")  
+### cryptanalysis
+* Classical Cryptanalysis
+	- Brute-Force
+	- Analytical attacks
+* Social Engineering
+* Implementation Attacks
+	- Example 1: side-channel analysis
+	- Example 2: record timing behavior to compute the key
+* ......
+
+
+
 
 
 
