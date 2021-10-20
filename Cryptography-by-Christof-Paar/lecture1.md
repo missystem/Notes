@@ -44,7 +44,7 @@
 <img src="figures/lecture1/example1.jpeg" alt="example1" width="566.7" height="319.5" />  
 
 ### In practice: Never use an untested crypto algorithm!  
-### notation
+### Notations
 ```
 x = plaintext  
 y = ciphertext  
@@ -53,6 +53,12 @@ d = decryption function
 k = key  
 |k| = K = key space (number of keys)
 ```
+
+### Kerckhoffs' Principle [1883]  
+A cryptosystem should be secure even if the attacker (Oscar) knows all the details about the system, with the exception of the secret key.  
+**Remark**: Kerckhoffs' Principle is counterintuitive!  
+
+---
 
 
 
