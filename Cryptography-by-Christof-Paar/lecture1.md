@@ -4,7 +4,7 @@
 - Substitution Cipher  
 - Attacks  
 
-1. **Classification**
+## 1. **Classification**
 2. Modern application of cryptography?
 	- [GNU PG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard) (GNU Privacy Guard)
 	- [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt)
@@ -24,15 +24,16 @@
 ### one part of security is cryptography
 * very few of security don't have cryptography on board
 
-## Cryptology  
-	* Cryptography
-		1. symmetric algorithms
-		2. asymmetric algorithms
-		3. protocols
-	* Cryptanalysis
+
+### Cryptology
+* Cryptography
+	1. symmetric algorithms
+	2. asymmetric algorithms
+	3. protocols
+* Cryptanalysis
 
 
-2. Set-up for 
+## 2. Set-up for 
 
 
 
