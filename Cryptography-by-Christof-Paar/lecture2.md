@@ -33,7 +33,7 @@ here m = modulus, r = remainder
 Given: ```a, m ∈ ℤ```<br>
 write ```a = qm```<br>
 here q = quotient<br>
-	 - Example:```a = 42, m = 9```
+	 - Example:```a = 42, m = 9```<br>
 	  ```
 	  42 = 4 * 9 + 6 => r = 6
 	  check: (42-6)=36, 9|36 √
@@ -49,7 +49,6 @@ here q = quotient<br>
 	  check: (42-(-3))=45, 9|45 √
 	  ```
 <br>==> **The remainder is not unique**
-
 ### 1b) Equivalence Classes
 	- Example: ```a = 12, m = 5```<br>
 	```
