@@ -35,17 +35,17 @@ write ```a = qm```<br>
 here q = quotient<br>
 - Example:```a = 42, m = 9```<br>
   ```
-  42 = 4 * 9 + 6 => r = 6
+  42 = 4 ⋅ 9 + 6 => r = 6
   check: (42-6)=36, 9|36 √
   ```
   <br>but also<br>
   ```
-  42 = 3 * 9 + 15 => r = 15
+  42 = 3 ⋅ 9 + 15 => r = 15
   check: (42-15)=27, 9|27 √
   ```
   <br>but also<br>
   ```
-  42 = 5 * 9 + (-3) => r = -3
+  42 = 5 ⋅ 9 + (-3) => r = -3
   check: (42-(-3))=45, 9|45 √
   ```
 <br>==> **The remainder is not unique**
@@ -70,10 +70,10 @@ here q = quotient<br>
 	```{..., -6, -1, 4, 9, 10, ...}```	E<br>
 	infinite members in these sets
 	```
-	13 * 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
-	 D * B  - D
-	 3 * 1  - 3 = 3 - 3 ≡ 0 mod 5
-	 8 * 6  - (-7) = 48 + 7 = 55 ≡ 0 mod 5
+	13 ⋅ 16 - 8 = 208 - 8 = 200 ≡ 0 mod 5
+	 D ⋅ B  - D
+	 3 ⋅ 1  - 3 = 3 - 3 ≡ 0 mod 5
+	 8 ⋅ 6  - (-7) = 48 + 7 = 55 ≡ 0 mod 5
 	```
 	**Important application**<br>
 
@@ -81,12 +81,17 @@ here q = quotient<br>
 	1. 1st way:<br>
 	```3^8 = 6561 ≡ 2 mod 7```
 	2. **2nd way**:<br>
-	```3^8 = 3^4 * 3^4 = 81 * 81 ≡ 4 * 4 = 16 ≡ 2 (mod 7)```
+	```3^8 = 3^4 ⋅ 3^4 = 81 ⋅ 81 ≡ 4 ⋅ 4 = 16 ≡ 2 (mod 7)```
 
 ---
 
 ## 2. Rings: An Algebraic View on Modular Arithmetic
-### Definition The "integer ring" ℤ_{m}
+### Definition: The "integer ring" ℤm consists of 
+1. The set ```ℤm = {0, 1, ..., m-1}```
+2. Two operators "+" and "⋅" such that for all ```a, b, c, d ∈ ℤm```
+	1. ```a + b ≡ c mod m```
+	2. ```a ⋅ b ≡ d mod m```
+	
 
 
 
