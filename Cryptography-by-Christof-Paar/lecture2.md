@@ -93,14 +93,23 @@ here q = quotient<br>
 	2. ```a ⋅ b ≡ d mod m```
 
 * Sect. 4.2 All this point, the following properties of rings are important (book pg. 17)
-	- Example for multiplication inverses```m = 9```
-		1. ex1
+	- Example for multiplication inverses```m = 9, ℤ_9 = {0,1,2,3,4,5,6,7,8}```
+		1. multiplication inverses of 2 mod 9
 		```
 		a = 2
 		a^{-1} = 2
 		2 ⋅ 2^{-1} ≡ 1 mod 9
-		2^{-1} = 1/2 = 0.5
+		2 ⋅   5    ≡ 1 mod 9
+		--> 2^{-1} ≡ 5 mod 9
+		gcd(2,9) = 1
+
+		6 ⋅   ?    ≡ 1 mod 9
+		gcd(6,9) = 3 ≠ 1
 		```
+	- ==> If the gcd of the number you want to invert and the modulo is 1, the inverse exists.
+
+
+
 
 
 
