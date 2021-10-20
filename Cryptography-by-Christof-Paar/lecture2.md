@@ -106,8 +106,27 @@ here q = quotient<br>
 		6 ⋅   ?    ≡ 1 mod 9
 		gcd(6,9) = 3 ≠ 1
 		```
-	- ==> If the gcd of the number you want to invert and the modulo is 1, the inverse exists.
+	- ==> If the gcd of the number you want to invert and the modulo is 1, the inverse exists.<br>
 
+---
+
+## 3. Shift (or Caesar) Cipher
+* Idea: shift letters in alphabet
+* Example:
+	```
+	k = 3  
+	then       
+	A --> d
+	B --> e
+	  ...
+	W --> z
+	X --> a
+	Y --> b
+	Z --> c
+	      ↑ wrap around modulo 26
+	```
+* Definition 1.4.3 Shift Cipher<br>
+<img src="figures/lecture2/defofshiftcipher.png" alt="Definition of Shift Cipher" width="429.6" height="106.8" />  
 
 
 
